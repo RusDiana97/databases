@@ -1,0 +1,22 @@
+SELECT CONCAT('google', '.com') AS ConcatFunction;
+
+SELECT ASCII(ProductID) NumberCodeOfID
+FROM Products;
+
+SELECT ASCII('0');
+
+SELECT CHAR(64) AS CodeToCharacter;
+
+SELECT LOWER('SQL Functions');
+
+SELECT UPPER('SQL Functions');
+
+SELECT REPLACE('TUTORIAL', 'T', 't');
+
+SELECT GETDATE();
+
+SELECT DAY('2022/10/31') AS DAY;
+
+SELECT MONTH('2022/10/31') AS MONTH;
+
+SELECT YEAR('2022/10/31') AS YEAR;
