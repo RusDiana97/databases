@@ -1,4 +1,4 @@
-In this folder I have added exercises solved by me with queries to check my knowledge regarding *databases*.
+In this folder I have added exercises solved by me with queries to check my knowledge regarding *relational databases*.
 
 To write the queries I used:
 - SQL CRUD
